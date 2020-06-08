@@ -1,0 +1,34 @@
+/*LAYOUT SECTION*/
+#header{
+	width:100%;
+	background:#252525;
+}
+#content{
+	position:relative;
+	background:#eee;
+	margin:0px 20px;
+}
+
+#footer{
+	position:relative;
+	background:#000;
+	height:40px;
+	line-height:40px;
+	color:#fff;
+	text-align:center;
+}
+
+/*CONTENT SECTION*/
+a.title{
+	color:#f0f0f0; 
+	font-weight:bold; 
+	text-decoration:none; 
+	font-size:30px; 
+	line-height:60px; 
+	padding:20px;
+}
+p{
+	padding:.5em 1em;
+	font-size:20px;
+	text-align:justify;
+}
